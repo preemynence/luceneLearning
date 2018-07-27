@@ -1,4 +1,4 @@
-package com.preemynence.luceneLearning.model;
+package com.preemynence.lucene.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

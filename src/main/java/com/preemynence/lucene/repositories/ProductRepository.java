@@ -1,6 +1,6 @@
-package com.preemynence.luceneLearning.repositories;
+package com.preemynence.lucene.repositories;
 
-import com.preemynence.luceneLearning.model.Product;
+import com.preemynence.lucene.model.Product;
 import org.springframework.data.solr.repository.SolrCrudRepository;
 
 import java.util.List;
